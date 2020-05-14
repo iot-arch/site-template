@@ -1,0 +1,34 @@
+{
+    "menu": {
+        "home": "Home",
+        "docs": "Docs",
+        "demo": "Demo",
+        "plugins": "Plugins",
+        "market": "Market",
+        "support": "Sponsor",
+        "language": "Language"
+    },
+    "slogan": "is an open source development framework of streaming server implemented by golang",
+    "slogan2": "x-streaming engine + plugins = customized streaming server",
+    "feature": {
+        "title1": "⚡High performance",
+        "feature1": "1",
+        "title2": "🧩Modular and scalable",
+        "feature2": "",
+        "title3": "📈Visual and easy to manage",
+        "feature3": ".",
+        "title4": "🐹Zero dependency and easy deployment",
+        "feature4": "Pure go writing, ."
+    },
+    "g": {
+        "pusher": "Pusher",
+        "player": "Player",
+        "camera": "Camera",
+        "dashboard": "Dashboard"
+    },
+    "about": {
+        "title": "Sponsor x-streaming",
+        "desc": "x-streaming is an open source project,.",
+        "sponsor": "Sponsor"
+    }
+}
